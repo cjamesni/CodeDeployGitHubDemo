@@ -1,2 +1,2 @@
-# Uses AWS CodeDeploy with GitHub for a simple server application deployment job  
-Deploys application revisions (ex: Apache httpd) from GitHub to a Linux server instance (ex: RHEL) via AWS CodeDeploy
+# A simple server application deployment job via AWS CodeDeploy and Github
+A simple application revision deployment (ex: Apache httpd) from GitHub to a Linux server instance (ex: RHEL) via AWS CodeDeploy
